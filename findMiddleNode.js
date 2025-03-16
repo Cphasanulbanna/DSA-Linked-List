@@ -43,6 +43,6 @@ const LinkedList = new LinkedList(4)
 LinkedList.push(1)
 LinkedList.push(2)
 LinkedList.push(3)
-LinkedList.findMiddleNode()
+LinkedList.findMiddleNode() // uses "tortoise and hare" algorithm
     
 
